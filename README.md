@@ -10,6 +10,8 @@
 
 [Stack overflow](https://stackoverflow.com/questions/27220403/django-paypal-ipn-urls-include-not-working)
 
+[Stack overflow 2](https://stackoverflow.com/questions/37471735/global-name-get-user-model-is-not-defined)
+
 [Django documentation](https://docs.djangoproject.com/en/4.1/topics/migrations/)
 
 
