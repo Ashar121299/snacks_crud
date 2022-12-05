@@ -22,4 +22,4 @@
 _*python manage.py runserver*_
 
 ### PR Link
-[PR](https://github.com/Ashar121299/django-snacks/pull/2)
+[PR](https://github.com/Ashar121299/snacks_crud/pull/1)
